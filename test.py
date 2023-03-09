@@ -14,7 +14,7 @@ io.setup(12, io.OUT)
 
 
 io.output(14,1)
-io.output(15,1)
+io.output(15,0)
 io.output(18,0)
 io.output(23,0)
 io.output(24,0)
@@ -23,4 +23,3 @@ io.output(8,0)
 io.output(7,0)
 io.output(12,0)
 
-io.cleanup()
